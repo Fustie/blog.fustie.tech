@@ -82,9 +82,9 @@ const config = {
             label: 'Хранилище',
           },
           {
-						href: "https://t.me/fluidrl",
-						position: "right",
-						label: "💬 Telegram",
+            href: "https://t.me/fluidrl",
+            position: "right",
+            label: "💬 Telegram",
           },
         ],
       },
